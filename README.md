@@ -14,4 +14,4 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/mark.acheson/
-[linkedin]: https://www.linkedin.com/in/mark-acheson-011b64277/
+[linkedin]: www.linkedin.com/in/markacheson1
