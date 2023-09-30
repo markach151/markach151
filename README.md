@@ -3,8 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Algorithm for File Updates in Python](https://github.com/markach151/PythonFileUpdateAlgorithm)
-
+  - [Algorithm for File Updates](https://github.com/markach151/PythonFileUpdateAlgorithm)
+- <b>Linux</b>
+  - [File Permissions](https://github.com/markach151/LinuxFilePermissions)
 
 
 <h2> 🤳 Connect with me:</h2>
