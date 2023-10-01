@@ -8,7 +8,7 @@
   - [File Permissions](https://github.com/markach151/LinuxFilePermissions)
 - <b>SQL</b>
   - [Apply Filters to SQL Queries](https://github.com/markach151/FilterSQLQueries)
- - <b>NIST CSF</b>
+- <b>NIST CSF</b>
   - [Incident Report Analysis](https://github.com/markach151/IncidentReportAnalysis) 
 
 
