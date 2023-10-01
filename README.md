@@ -10,7 +10,8 @@
   - [Apply Filters to SQL Queries](https://github.com/markach151/FilterSQLQueries)
 - <b>NIST CSF</b>
   - [Incident Report Analysis](https://github.com/markach151/IncidentReportAnalysis) 
-
+- <b>Assets, Threats, & Vulnerabilities</b>
+  - [Vulnerability Assessment Report](https://github.com/markach151/VulnerabilityAssessmentReport)
 
 <h2> 🤳 Connect with me:</h2>
 
