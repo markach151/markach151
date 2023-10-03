@@ -6,6 +6,7 @@
   - [Algorithm for File Updates](https://github.com/markach151/PythonFileUpdateAlgorithm)
 - <b>Linux</b>
   - [File Permissions](https://github.com/markach151/LinuxFilePermissions)
+  - [Smurf Attack Using Kali Linux](https://github.com/markach151/SmurfAttackKaliLinux)
 - <b>SQL</b>
   - [Apply Filters to SQL Queries](https://github.com/markach151/FilterSQLQueries)
 - <b>NIST CSF</b>
