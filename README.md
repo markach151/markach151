@@ -18,6 +18,7 @@
 
 <h2> 🔮 Certificates: </h2>
 
+- <b>[CompTIA Security+ ce Certification]([https://coursera.org/share/337210365620bf9c07d519a6e285b2a2](https://www.credly.com/badges/1864c045-5543-45b4-8f73-53c1032ba459/public_url))</b>
 - <b>[Google Cybersecurity Professional Certificate](https://coursera.org/share/337210365620bf9c07d519a6e285b2a2)</b>
 - <b>[Microsoft Windows Defender and Firewall](https://coursera.org/share/ab58c1bda1271d5bba9a1b4fcab652d5)</b>
 <h2> 🤳 Connect with me:</h2>
